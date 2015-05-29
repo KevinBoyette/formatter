@@ -1,0 +1,7 @@
+Work in progress
+
+|Bugs to fix|
+------------
+| semicolon format in lines doesn't always work|
+| need better formatting of }|
+------------------------------
